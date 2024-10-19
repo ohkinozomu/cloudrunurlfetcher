@@ -1,3 +1,5 @@
+Archive: Use [Deterministic URL](https://cloud.google.com/run/docs/triggering/https-request?hl=en#deterministic)
+
 # cloudrunurlfetcher
 
 Library for Cloud Run to get its own URL.
