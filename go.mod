@@ -3,8 +3,8 @@ module github.com/ohkinozomu/cloudrunurlfetcher
 go 1.21
 
 require (
-	cloud.google.com/go/compute/metadata v0.2.3
-	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
+	cloud.google.com/go/compute/metadata v0.3.0
+	golang.org/x/oauth2 v0.23.0
 )
 
 require (
